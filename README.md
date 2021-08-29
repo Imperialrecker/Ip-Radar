@@ -9,7 +9,7 @@
 <h4 align="center">A tool with attractive capabilities</h4>
 
 <p align="center">
-  <a href="http://python.org">
+  <a href="https://creativecommons.org/publicdomain/zero/1.0/">
     <img src="https://img.shields.io/badge/License-CC0 1.0-blueviolet">
   </a>
   
