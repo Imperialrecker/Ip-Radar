@@ -49,6 +49,8 @@ Python based IPv4 information collector with location in Google Maps.
 - MacOS (Big Sur v11.4)
 - Windows (7)
 
+## Insatallation
+
 ### Installation On Linux
 
 Please install neofetch module using appropriate installation method from <a href="https://github.com/dylanaraps/neofetch/wiki/Installation#">here</a>. Then follow the command line instructions (prior to this please have python3 and pip installed):
