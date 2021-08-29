@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <br>
-  <a href="https://github.com/Imperialrecker/Ip-Radar"><img src="https://github.com/Imperialrecker/Ip-Radar/blob/main/Ip-Radar/icon.png" alt="Ip-Radar icon"></a>
+  <a href="https://github.com/Imperialrecker/Ip-Radar"><img src="https://github.com/Imperialrecker/Ip-Radar/blob/main/icon.png" alt="Ip-Radar icon"></a>
 
 </h1>
 
