@@ -46,7 +46,7 @@ Python based IPv4 information collector with location in Google Maps.
 ### Operating Systems Tested
 
 - Twister OS (Armbian based)
-- MacOS (Big Sur V11.4)
+- MacOS (Big Sur v11.4)
 - Windows (7)
 
 ### Installation On Linux
@@ -59,7 +59,7 @@ $ sudo pip3 install ip2geotools
 $ cd Ip-Radar
 $ sudo python3 IP-Radar.py
 ```
-
+___________________________________________________________________________________________________________________________________
 ### Installation On MacOs
 
 1. We need to install Homebrew first prior to install neofetch module as follows (If you have Homebrew installed you can skip this step):
@@ -67,7 +67,7 @@ $ sudo python3 IP-Radar.py
 ```bash
 $ /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
-2. Now we install the neofetch module:
+2. Now we install the neofetch module (prior to this please have python3 and pip installed):
 
 ```bash
 $ brew install neofetch
@@ -77,10 +77,37 @@ $ brew install neofetch
 ```bash
 $ sudo pip3 install ip2geotools
 ```
+4. Now we install this github and run the python script:
 
 ```bash
 $ git clone https://github.com/Imperialrecker/Ip-Radar.git
+$ cd Ip-Radar
+$ sudo python3 IP-Radar.py
+```
+___________________________________________________________________________________________________________________________________
+### Installation On Windows
+
+1. We need to install Scoop first prior to install neofetch module as follows (If you have Scoop installed you can skip this step):
+
+```bash
+$ iwr -useb get.scoop.sh | iex
+```
+If the above command does not work or shows errors, take a look on <a href="https://github.com/lukesampson/scoop#requirements">how to install Scoop</a>.
+
+2. Now we install the neofetch module (prior to this please have python3 and pip installed):
+
+```bash
+$ scoop install neofetch
+```
+3. Now we install ip2geotools library used in the python script:
+
+```bash
 $ sudo pip3 install ip2geotools
+```
+4. Now we install this github and run the python script:
+
+```bash
+$ git clone https://github.com/Imperialrecker/Ip-Radar.git
 $ cd Ip-Radar
 $ sudo python3 IP-Radar.py
 ```
