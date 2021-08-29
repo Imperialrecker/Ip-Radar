@@ -30,7 +30,9 @@
   </a>
 </p>
 
-![demo](https://github.com/Imperialrecker/Ip-Radar/blob/main/Ip-Radar/images/Working%20screen.png)
+![demo](https://github.com/Imperialrecker/Ip-Radar/blob/main/images/Working%20screen-%20Mac.png)
+![demo](https://github.com/Imperialrecker/Ip-Radar/blob/main/images/Working%20screen-%20Raspbian.png)
+![demo](https://github.com/Imperialrecker/Ip-Radar/blob/main/images/Working%20screen-%20Twister.png)
 
 Python based IPv4 information collector with location in Google Maps.
 
