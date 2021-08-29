@@ -43,5 +43,5 @@ print("\u001b[37;1mGoogle maps link is : \u001b[36;1mhttps://www.google.com/maps
       "{0}".format(response.latitude)+","+"{0}".format(response.longitude))
 
 print("\u001b[0m\n")
-input("\u001b[7m\u001b[42;1mPress ENTER to exit")
+input("\u001b[7m\u001b[42;1mPress ENTER to exit\u001b[0m")
 print("\u001b[0m\n")
