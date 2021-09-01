@@ -1,4 +1,4 @@
-# Code written by Imperial Recker
+# Code written by Nybbl3
 
 from ip2geotools.databases.noncommercial import DbIpCity
 import os
