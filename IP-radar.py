@@ -15,7 +15,7 @@ ascii = "".join(f.readlines())
 
 print(ascii)
 
-print("\u001b[7mCoded and Designed by Imperial Recker\u001b[0m")
+print("\u001b[7mCoded and Designed by Nybble\u001b[0m")
 
 print("\n")
 
